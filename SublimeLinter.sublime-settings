@@ -11,6 +11,29 @@
 		"lint_mode": "save only",
 		"linters":
 		{
+			"csslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"errors": "",
+				"excludes":
+				[
+				],
+				"ignore": "",
+				"warnings": ""
+			},
+			"jshint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"pylint":
 			{
 				"@disable": false,
@@ -29,7 +52,7 @@
 				"show-codes": false
 			}
 		},
-		"mark_style": "stippled underline",
+		"mark_style": "none",
 		"no_column_highlights_line": true,
 		"passive_warnings": false,
 		"paths":
