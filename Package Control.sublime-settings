@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"Emmet",
+		"Jinja2",
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",
