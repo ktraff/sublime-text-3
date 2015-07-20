@@ -8,7 +8,7 @@
 		"gutter_theme_excludes":
 		[
 		],
-		"lint_mode": "background",
+		"lint_mode": "manual",
 		"linters":
 		{
 			"csslint":
@@ -25,6 +25,16 @@
 				"warnings": ""
 			},
 			"jshint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"jsxhint":
 			{
 				"@disable": false,
 				"args":
