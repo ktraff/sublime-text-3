@@ -1,5 +1,13 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"bower_components",
+		"node_modules"
+	],
 	"font_size": 12,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -22,6 +30,5 @@
 	},
 	"scroll_past_end": true,
 	"translate_tabs_to_spaces": true,
-	"vintage_start_in_command_mode": true,
-	"folder_exclude_patterns": [".svn", ".git", ".hg", "bower_components", "node_modules"]
+	"vintage_start_in_command_mode": true
 }

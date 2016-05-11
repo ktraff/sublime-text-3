@@ -10,9 +10,11 @@
 		"Package Control",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-contrib-tslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-jsxhint",
 		"SublimeLinter-pylint",
-		"Theme - Soda"
+		"Theme - Soda",
+		"TypeScript"
 	]
 }
