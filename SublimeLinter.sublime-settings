@@ -8,7 +8,7 @@
 		"gutter_theme_excludes":
 		[
 		],
-		"lint_mode": "manual",
+		"lint_mode": "load/save",
 		"linters":
 		{
 			"csslint":
@@ -23,6 +23,16 @@
 				],
 				"ignore": "",
 				"warnings": ""
+			},
+			"eslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
 			},
 			"jshint":
 			{
@@ -60,6 +70,16 @@
 				],
 				"rcfile": "",
 				"show-codes": false
+			},
+			"tslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
 			}
 		},
 		"mark_style": "none",
