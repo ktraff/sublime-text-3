@@ -1,9 +1,19 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_size": 10,
+	"color_scheme": "Packages/User/SublimeLinter/Blackboard (SL).tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"bower_components",
+		"node_modules",
+		"__pycache__"
+	],
+	"font_size": 12,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Emmet",
 		"SublimeCodeIntel"
 	],
 	"paths":
@@ -19,6 +29,10 @@
 			"C:\\Python27"
 		]
 	},
+	"rulers":
+	[
+		100
+	],
 	"scroll_past_end": true,
 	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true

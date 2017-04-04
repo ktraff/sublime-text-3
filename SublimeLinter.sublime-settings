@@ -8,7 +8,7 @@
 		"gutter_theme_excludes":
 		[
 		],
-		"lint_mode": "save only",
+		"lint_mode": "load/save",
 		"linters":
 		{
 			"csslint":
@@ -24,7 +24,27 @@
 				"ignore": "",
 				"warnings": ""
 			},
+			"eslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"jshint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
+			"jsxhint":
 			{
 				"@disable": false,
 				"args":
@@ -50,6 +70,16 @@
 				],
 				"rcfile": "",
 				"show-codes": false
+			},
+			"tslint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
 			}
 		},
 		"mark_style": "none",

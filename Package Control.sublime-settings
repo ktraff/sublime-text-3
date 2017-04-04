@@ -5,13 +5,18 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
+		"Dockerfile Syntax Highlighting",
 		"Emmet",
 		"Jinja2",
 		"Package Control",
-		"SideBarEnhancements",
+		"Pretty JSON",
+		"Python 3",
 		"SublimeLinter",
-		"SublimeLinter-jshint",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-tslint",
 		"SublimeLinter-pylint",
-		"Theme - Soda"
+		"Theme - Soda",
+		"TypeScript"
 	]
 }
