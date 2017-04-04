@@ -1,11 +1,9 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_size": 11,
+	"font_size": 10,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Emmet",
-		"SublimeLinter",
 		"SublimeCodeIntel"
 	],
 	"paths":
